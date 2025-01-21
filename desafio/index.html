@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jogo Adedonha</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <img src="adedonha.jpg" alt="Logo Adedonha" class="logo">
+    <p id="letra-sorteada">Clique para sortear uma letra!</p>
+    <button id="sortear-letra">Sortear Letra</button>
+    
+    <form id="form-respostas">
+      <h2>Preencha suas respostas:</h2>
+      <div id="temas">
+        <!-- Os temas são gerados aqui -->
+      </div>
+      <button type="submit" id="validar-respostas">Validar Respostas</button>
+    </form>
+
+    <div id="resultado">
+      <h2>Resultado:</h2>
+      <p id="pontuacao-final"></p>
+      <ul id="respostas-finais"></ul>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
