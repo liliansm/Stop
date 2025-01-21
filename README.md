@@ -38,4 +38,18 @@ Este projeto é um jogo simples e interativo de *Adedonha*, desenvolvido com HTM
   
 
 ## Colaboradores
-[Milena tabosa](https://github.com/MiTabosa)
+<div class="team">
+  <img src="[https://avatars.githubusercontent.com/u/ID](https://avatars.githubusercontent.com/u/193292299?s=400&u=2328fbed794a29970210d2dd45178ad59406542f&v=4)" alt="Milena Tabosa">
+  <p>[Milena tabosa](https://github.com/MiTabosa)</p>
+     <img src="[[https://avatars.githubusercontent.com/u/ID](https://avatars.githubusercontent.com/u/193292299?s=400&u=2328fbed794a29970210d2dd45178ad59406542f&v=4)](https://avatars.githubusercontent.com/u/143213736?v=4)" alt="Lilian Souza de Mélo">
+  <p>[Lilian Souza de Mélo](https://github.com/liliansm)</p>
+     <img src="[https://avatars.githubusercontent.com/u/ID](https://avatars.githubusercontent.com/u/193292299?s=400&u=2328fbed794a29970210d2dd45178ad59406542f&v=4)](https://avatars.githubusercontent.com/u/141286410?v=4)" alt="Thainá Santos">
+  <p>[Thainá Santos](https://github.com/ThainaSantoss)</p>
+     <img src="[[https://avatars.githubusercontent.com/u/ID](https://avatars.githubusercontent.com/u/193292299?s=400&u=2328fbed794a29970210d2dd45178ad59406542f&v=4)](https://avatars.githubusercontent.com/u/193288759?v=4)" alt="Thainá Araujo">
+  <p>[Thainá Araujo](https://github.com/ThainacfAraujo)</p>
+     <img src="[[https://avatars.githubusercontent.com/u/ID](https://avatars.githubusercontent.com/u/193292299?s=400&u=2328fbed794a29970210d2dd45178ad59406542f&v=4)](https://avatars.githubusercontent.com/u/191514573?v=4)" alt="Paulo Marques">
+  <p>[Paulo Marques](https://github.com/Paulo0310)</p>
+</div>
+
+
+
