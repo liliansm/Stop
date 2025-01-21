@@ -38,3 +38,4 @@ Este projeto é um jogo simples e interativo de *Adedonha*, desenvolvido com HTM
   
 
 ## Colaboradores
+[Milena tabosa](https://github.com/MiTabosa)
